@@ -1,5 +1,9 @@
+Debug
 */Debug
 */*/Debug
+.vs
+*/.vs
+*/*/.vs
 *.exe
 *.ilk
 *.pdb
